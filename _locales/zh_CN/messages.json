@@ -16,5 +16,15 @@
   "closeTabsToLeft": {
       "message": "关闭左侧标签页",
       "description": "Title of the context menu item."
+  },
+  "closedNumberNotification": {
+      "message": "关闭了 $number$ 个标签页",
+      "description": "Notification message after tabs closed.",
+      "placeholders": {
+          "number" : {
+              "content" : "$1",
+              "example" : "10"
+          }
+      }
   }
 }

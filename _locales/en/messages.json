@@ -1,0 +1,16 @@
+{
+  "extensionName": {
+    "message": "Close Tabs to the right button",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Adds a button that closes all tabs to the right of the selected tab.",
+    "description": "Description of the extension."
+  },
+
+  "browserAction": {
+      "message": "Close Tabs to the Right",
+      "description": "Title of the context menu item."
+  }
+}

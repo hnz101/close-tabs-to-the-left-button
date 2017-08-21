@@ -9,7 +9,7 @@
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
   "homepage_url": "https://github.com/yfdyh000/close-tabs-to-the-right-button",
-  "version": "0.1.0",
+  "version": "0.2.0",
 
   "browser_action": {
     "browser_style": true,
@@ -20,6 +20,9 @@
   "background": {
     "scripts": ["background.js"]
   },
+  "permissions": [
+    "contextMenus"
+  ],
   
   "default_locale": "en"
 }

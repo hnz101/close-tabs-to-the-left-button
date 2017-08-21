@@ -11,6 +11,10 @@
 
   "browserAction": {
       "message": "Close Tabs to the Right",
+      "description": "Tooltip of the browser action button."
+  },
+  "closeTabsToLeft": {
+      "message": "Close Tabs to the Left",
       "description": "Title of the context menu item."
   }
 }

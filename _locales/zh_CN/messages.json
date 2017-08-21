@@ -5,12 +5,16 @@
   },
 
   "extensionDescription": {
-    "message": "添加一个按钮，它可关闭当前标签页右侧的所有标签页。",
+    "message": "添加一个按钮，用它可关闭当前标签页右侧的所有标签页。",
     "description": "Description of the extension."
   },
 
   "browserAction": {
       "message": "关闭右侧标签页",
+      "description": "Tooltip of the browser action button."
+    },
+  "closeTabsToLeft": {
+      "message": "关闭左侧标签页",
       "description": "Title of the context menu item."
   }
 }

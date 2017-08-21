@@ -5,7 +5,7 @@
   },
 
   "extensionDescription": {
-    "message": "Adds a button that closes all tabs to the right of the selected tab.",
+    "message": "Adds a button that closes the right tabs of the selected tab.",
     "description": "Description of the extension."
   },
 

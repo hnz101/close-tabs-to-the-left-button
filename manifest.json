@@ -8,7 +8,7 @@
 
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "homepage_url": "https://github.com/yfdyh000",
+  "homepage_url": "https://github.com/yfdyh000/close-tabs-to-the-right-button",
   "version": "0.1.0",
 
   "browser_action": {

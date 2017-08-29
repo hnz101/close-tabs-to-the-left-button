@@ -16,15 +16,5 @@
   "closeTabsToLeft": {
       "message": "Close Tabs to the Left",
       "description": "Title of the context menu item."
-  },
-  "closedNumberNotification": {
-      "message": "Number of tabs closed: $number$",
-      "description": "Notification message after tabs closed.",
-      "placeholders": {
-          "number" : {
-              "content" : "$1",
-              "example" : "10"
-          }
-      }
   }
 }

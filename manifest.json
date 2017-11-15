@@ -8,14 +8,17 @@
 
   "name": "__MSG_extensionName__",
   "description": "__MSG_extensionDescription__",
-  "homepage_url": "https://github.com/yfdyh000/close-tabs-to-the-right-button",
-  "version": "0.4.0",
+  "homepage_url": "https://github.com/hnz101/close-tabs-to-the-left-button",
+  "version": "0.4.1",
 
   "browser_action": {
     "browser_style": true,
     "default_title": "__MSG_browserAction__",
     "default_area": "tabstrip",
-    "default_icon": "icons/icon.svg"
+    "default_icon": {
+	  "48": "icons/icon_left48.png",
+	  "96": "icons/icon_left96.png"
+	}
   },
   "background": {
     "scripts": ["background.js"]

@@ -1,16 +1,16 @@
 {
   "extensionName": {
-    "message": "Close Tabs to the right button",
+    "message": "Close Tabs to the left button",
     "description": "Name of the extension."
   },
 
   "extensionDescription": {
-    "message": "Adds a button that closes the right tabs of the selected tab.",
+    "message": "Adds a button that closes the left tabs of the selected tab.",
     "description": "Description of the extension."
   },
 
   "browserAction": {
-      "message": "Close Tabs to the Right",
+      "message": "Close Tabs to the Left",
       "description": "Tooltip of the browser action button."
   },
   "closeTabsToLeft": {

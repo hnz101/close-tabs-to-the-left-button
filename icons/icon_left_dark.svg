@@ -12,7 +12,7 @@
    width="16"
    height="16"
    id="svg3995"
-   sodipodi:docname="icon_left.svg"
+   sodipodi:docname="icon_left_dark.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    inkscape:export-filename="I:\icon_left96.png"
    inkscape:export-xdpi="192"
@@ -25,14 +25,28 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <cc:license
            rdf:resource="https://www.mozilla.org/en-US/MPL/2.0/" />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs3999" />
+     id="defs3999">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter837"
+       x="-0.024"
+       width="1.048"
+       y="-0.024"
+       height="1.048">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.16"
+         id="feGaussianBlur839" />
+    </filter>
+  </defs>
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -42,23 +56,24 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1701"
-     inkscape:window-height="1058"
+     inkscape:window-width="1920"
+     inkscape:window-height="1033"
      id="namedview3997"
      showgrid="false"
-     inkscape:zoom="50"
-     inkscape:cx="8"
-     inkscape:cy="8.1720123"
-     inkscape:window-x="1912"
-     inkscape:window-y="-8"
+     inkscape:zoom="55"
+     inkscape:cx="7.2840506"
+     inkscape:cy="6.3463323"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3995"
      units="px" />
   <path
      id="path1415"
-     d="M 7.9546666,16 10.432666,13.534667 6.924,10.010667 H 16 V 6.0106654 H 6.924 L 10.454001,2.466 7.9753334,0 0,8.0106674 Z"
+     d="m 7.9546666,16 c 2.5627854,1.003119 3.8331084,0.734318 2.4779994,-2.465333 L 6.924,10.010667 H 16 V 6.0106654 H 6.924 L 10.454001,2.466 C 11.457518,0.07880123 10.989363,-1.0494974 7.9753334,0 L 0,8.0106674 Z"
      inkscape:connector-curvature="0"
-     style="stroke-width:0.66666698" />
+     style="stroke:#e6e6e6;stroke-width:1.39999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter837)"
+     sodipodi:nodetypes="cccccccccc" />
   <path
      style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:1.01;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
      d="M -0.01640307,-0.01640307 16.176403,16.116403"
